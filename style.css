@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.game-container {
+    background: #F0FFFF;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+}
+
+#gameCanvas {
+    background: #191970; /* Black background for the game */
+    border: 1px solid #ccc;
+}
+
+#score {
+    margin-top: 10px;
+    font-size: 20px;
+}
